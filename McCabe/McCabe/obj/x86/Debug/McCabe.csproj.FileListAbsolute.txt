@@ -1,0 +1,5 @@
+D:\БГУИР\Метрология\McCabe\McCabe\bin\Debug\McCabe.exe
+D:\БГУИР\Метрология\McCabe\McCabe\bin\Debug\McCabe.pdb
+D:\БГУИР\Метрология\McCabe\McCabe\obj\x86\Debug\McCabe.csprojResolveAssemblyReference.cache
+D:\БГУИР\Метрология\McCabe\McCabe\obj\x86\Debug\McCabe.exe
+D:\БГУИР\Метрология\McCabe\McCabe\obj\x86\Debug\McCabe.pdb
